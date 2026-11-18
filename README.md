@@ -1,16 +1,13 @@
-## Hi there 👋
+## _Hello everyone!_
 
-<!--
-**anasluqman089/anasluqman089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is _Muhammad Anas Luqman Bin Mohd Nazri_, I really love doing hardware projects espically designing custom PCB for my projects!
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=arduino,py,raspberrypi,vscode,&perline=4)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+I'm currently working on a custom devboard that uses an ESP32-S3 Wroom-1 RF Module. It has many integrated sensor like an IMU and a BME680. here is a sneak peek :
+
+<img width="348" height="505" alt="image" src="https://github.com/user-attachments/assets/fd34876c-63f1-4e2a-8187-a3454f49e96c" />
+
+-----
